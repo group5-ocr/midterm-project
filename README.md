@@ -1,7 +1,11 @@
-## main
+## 레포 소개
+파이널 팀 과제 레포지토리입니다.
+
+## 브렌치 명
+1. main
 의료 데이터셋에 따른 paddleocr 엔진 학습
 
-## YOLO_직접구현
+2. YOLO_직접구현
 [데이터셋 링크](https://www.aihub.or.kr/aihubdata/data/view.do?searchKeyword=%EC%95%84%EB%8F%99%EB%AF%B8%EC%88%A0&aihubDataSe=data&dataSetSn=71399)
 
 
