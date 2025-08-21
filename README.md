@@ -3,9 +3,11 @@
 
 ## 브렌치 명
 1. main
+</br>
 의료 데이터셋에 따른 paddleocr 엔진 학습
-
+</br>
 2. YOLO_직접구현
+</br>
 [데이터셋 링크](https://www.aihub.or.kr/aihubdata/data/view.do?searchKeyword=%EC%95%84%EB%8F%99%EB%AF%B8%EC%88%A0&aihubDataSe=data&dataSetSn=71399)
 
 
