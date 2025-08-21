@@ -8,11 +8,8 @@
 </br>
 2. YOLO_직접구현
 </br>
-데이터셋 링크
-</br>
-https://www.aihub.or.kr/aihubdata/data/view.do?searchKeyword=%EC%95%84%EB%8F%99%EB%AF%B8%EC%88%A0&aihubDataSe=data&dataSetSn=71399
+데이터셋 : AI 기반 아동 미술심리 진단을 위한 그림 데이터 구축(AI-hub)
 
-</br>
 #### 2-1 YOLO 모델 + 딥러닝 모델 최종 구현 역할분담
   - 신현식 : YOLOv2 + ResNET-19
   - 노현지 : YOLOv3 + ResNET-19
