@@ -16,3 +16,6 @@
   - 고현서 : YOLOv3 + EfficientNET B0
   - 이훤 : YOLOv3 + EfficientNET B0
   - 손단하 : 로컬 테스트 .py 구현
+
+## 개인 공부 링크
+https://www.notion.so/2025-08-14_yolo-24fa304ac112801c9625e78fe8bba215?source=copy_link
