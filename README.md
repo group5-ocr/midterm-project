@@ -18,4 +18,8 @@
   - 손단하 : 로컬 테스트 .py 구현
 
 ## 개인 공부 링크
-https://www.notion.so/2025-08-14_yolo-24fa304ac112801c9625e78fe8bba215?source=copy_link
+1. YOLO + DL
+   https://www.notion.so/2025-08-14_yolo-24fa304ac112801c9625e78fe8bba215?source=copy_link
+
+2. OCR
+   https://www.notion.so/2025-08-12_OCR-24ca304ac11280b98bfce32f0b16ab84?source=copy_link
